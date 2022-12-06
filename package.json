@@ -22,7 +22,7 @@
     "core-js": "3",
     "lodash": "^4.17.13",
     "papaparse": "^4.6.3",
-    "qs": "^6.9.1"
+    "qs": "^6.9.7"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
